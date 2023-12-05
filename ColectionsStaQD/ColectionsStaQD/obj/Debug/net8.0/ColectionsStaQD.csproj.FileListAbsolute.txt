@@ -1,0 +1,14 @@
+C:\Users\Dell G15\source\repos\ColectionsStaQD\ColectionsStaQD\bin\Debug\net8.0\ColectionsStaQD.exe
+C:\Users\Dell G15\source\repos\ColectionsStaQD\ColectionsStaQD\bin\Debug\net8.0\ColectionsStaQD.deps.json
+C:\Users\Dell G15\source\repos\ColectionsStaQD\ColectionsStaQD\bin\Debug\net8.0\ColectionsStaQD.runtimeconfig.json
+C:\Users\Dell G15\source\repos\ColectionsStaQD\ColectionsStaQD\bin\Debug\net8.0\ColectionsStaQD.dll
+C:\Users\Dell G15\source\repos\ColectionsStaQD\ColectionsStaQD\bin\Debug\net8.0\ColectionsStaQD.pdb
+C:\Users\Dell G15\source\repos\ColectionsStaQD\ColectionsStaQD\obj\Debug\net8.0\ColectionsStaQD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell G15\source\repos\ColectionsStaQD\ColectionsStaQD\obj\Debug\net8.0\ColectionsStaQD.AssemblyInfoInputs.cache
+C:\Users\Dell G15\source\repos\ColectionsStaQD\ColectionsStaQD\obj\Debug\net8.0\ColectionsStaQD.AssemblyInfo.cs
+C:\Users\Dell G15\source\repos\ColectionsStaQD\ColectionsStaQD\obj\Debug\net8.0\ColectionsStaQD.csproj.CoreCompileInputs.cache
+C:\Users\Dell G15\source\repos\ColectionsStaQD\ColectionsStaQD\obj\Debug\net8.0\ColectionsStaQD.dll
+C:\Users\Dell G15\source\repos\ColectionsStaQD\ColectionsStaQD\obj\Debug\net8.0\refint\ColectionsStaQD.dll
+C:\Users\Dell G15\source\repos\ColectionsStaQD\ColectionsStaQD\obj\Debug\net8.0\ColectionsStaQD.pdb
+C:\Users\Dell G15\source\repos\ColectionsStaQD\ColectionsStaQD\obj\Debug\net8.0\ColectionsStaQD.genruntimeconfig.cache
+C:\Users\Dell G15\source\repos\ColectionsStaQD\ColectionsStaQD\obj\Debug\net8.0\ref\ColectionsStaQD.dll
